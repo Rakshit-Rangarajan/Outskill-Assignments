@@ -1,0 +1,6 @@
+gradio
+openai
+pillow
+huggingface-hub
+pydantic
+python-dotenv
